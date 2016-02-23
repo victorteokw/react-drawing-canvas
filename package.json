@@ -1,0 +1,26 @@
+{
+  "name": "react-drawing-canvas",
+  "version": "0.1.0",
+  "description": "Simple canvas drawing for React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheunghy/react-drawing-canvas.git"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "canvas",
+    "drawing",
+    "html"
+  ],
+  "author": "Zhang Kai Yu <yeannylam@gmail.com> (http://www.cheunghoiyu.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheunghy/react-drawing-canvas/issues"
+  },
+  "homepage": "https://github.com/cheunghy/react-drawing-canvas#readme"
+}
